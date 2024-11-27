@@ -1,7 +1,6 @@
-//    const apiKey = "ebb9145ca4d542a4a8d172eb06305dc3";
 
 document.addEventListener("DOMContentLoaded", function() {
-    const apiKey = "ebb9145ca4d542a4a8d172eb06305dc3";  // pretend this is correct
+    const apiKey = "ebb9145ca4d542a4a8d172eb06305dc3"; 
     const form = document.getElementById("search-form");
     const recipesDiv = document.querySelector(".recipes");
 
